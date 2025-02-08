@@ -1,10 +1,7 @@
 # 💊 **Pastillas Inspiradoras - Skill para Alexa**  
 
-📢 **Skill de Alexa que ofrece frases motivacionales y de inspiración al azar.**  
-
-📅 **Última actualización:** *08 de Febrero de 2025*  
-
 📌 **Autor:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
+📅 **Última actualización:** 2025-02-08  
 
 ---
 
@@ -54,30 +51,6 @@ Para salir, puedes decir:
 
 ---
 
-## 🛠 **Instalación y Modificación del Código**  
-
-Si deseas modificar esta skill o agregar frases, sigue estos pasos:  
-
-### 1️⃣ **Requisitos**  
-- Cuenta en **Amazon Developer Console**.  
-- Node.js con el SDK de Alexa (`ask-sdk-core`).  
-- Editor de código (VS Code, Sublime Text, etc.).  
-
-### 2️⃣ **Cómo agregar nuevas frases**  
-
-Para añadir más frases sin modificar el código, solo edita **`frases.json`** en GitHub y usa este formato:  
-
-```json
-[
-    { "texto": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.", "autor": "Winston Churchill" },
-    { "texto": "Haz lo que puedas, con lo que tengas, donde estés.", "autor": "Theodore Roosevelt" }
-]
-```
-
-💾 **Guarda los cambios y la Skill utilizará automáticamente las frases nuevas.**  
-
----
-
 ## 🔒 **Política de Privacidad**  
 
 Esta skill **no almacena datos personales** ni requiere permisos adicionales.  
@@ -96,6 +69,5 @@ Esta skill **no almacena datos personales** ni requiere permisos adicionales.
 ## 💜 **Agradecimientos**  
 
 Desarrollado por **Katherine Vargas** [(KathWare)](https://kathware.com.ar).  
-
 
 📢 **¡Gracias por probar "Pastillas Inspiradoras"!**  
