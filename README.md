@@ -61,3 +61,26 @@ Para agregar más frases a la skill sin modificar el código:
     { "texto": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.", "autor": "Winston Churchill" },
     { "texto": "Haz lo que puedas, con lo que tengas, donde estés.", "autor": "Theodore Roosevelt" }
 ]
+```
+3. **Guarda los cambios y la skill usará automáticamente las frases nuevas.**  
+
+---
+
+## 🔒 **Política de Privacidad**
+Esta skill **no almacena datos personales** ni requiere permisos adicionales.  
+🔗 **[📄 Política de Privacidad](https://dragonmoon1522.github.io/Pastillas-Inspiradoras/Politica%20de%20Privacidad)**  
+
+---
+
+## 🎨 **Próximas Mejoras**
+✅ **Añadir más frases inspiradoras.**  
+✅ **Optimizar tiempos de respuesta en Alexa.**  
+✅ **Mejorar la interacción para usuarios nuevos.**  
+
+---
+
+## 💜 **Agradecimientos**
+Desarrollado por **Katherine Vargas** [(KathWare)](https://kathware.com.ar).  
+Con el apoyo de la comunidad de desarrollo accesible.  
+
+📢 **¡Gracias por probar "Pastillas Inspiradoras"!**
