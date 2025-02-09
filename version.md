@@ -6,21 +6,13 @@
 ---
 
 ## 🚀 **Versión 1.3.1 - 2025-02-09**  
-
-### 🔹 **Mejoras y correcciones en esta versión:**  
 - 🛠 **Corrección del cierre de sesión:** Ahora la skill cierra correctamente al decir "Salir" o "Cancelar".  
 - 🔄 **Manejo de sesiones mejorado:** Se asegura que todas las respuestas indiquen si la sesión sigue abierta o se cierra.  
 - 🔁 **Corrección en `RepeatIntent`:** Ahora recuerda correctamente la última frase y la repite sin errores.  
 - ⚙ **Optimización de `SessionEndedRequestHandler`:** Evita errores inesperados al finalizar la skill.  
 - 🚀 **Mejoras generales en la estabilidad y formato de respuestas.**  
-
-🎯 **Objetivo:** Pasar la certificación de Alexa sin problemas y garantizar una experiencia fluida para los usuarios.  
-
-🔜 **Próximos pasos:**  
 - Explorar nuevas frases y ampliar la base de datos de inspiración.  
 - Evaluar mejoras en la interacción de la skill para futuras versiones.  
-
-💜 **Gracias por usar Pastillas Inspiradoras!** ✨  
 
 ---
 
