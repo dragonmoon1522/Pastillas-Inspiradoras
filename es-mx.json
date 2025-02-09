@@ -1,0 +1,52 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "pastillas inspiradoras",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "Cómo se usa esto",
+                        "Ayuda",
+                        "Qué puedo hacer"
+                    ]
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": [
+                        "Repite la frase",
+                        "Dímelo otra vez",
+                        "No lo entendí repítelo"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "FrasesIntent",
+                    "slots": [],
+                    "samples": [
+                        "Dame una pastilla de inspiración",
+                        "Quiero una pastilla de inspiración",
+                        "Dame una frase de ánimo",
+                        "Quiero una frase de ánimo"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
