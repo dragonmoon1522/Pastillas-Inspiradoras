@@ -1,7 +1,20 @@
 # 📌 Historial de Versiones  
 
-📅 **Última actualización:** 2025-02-08  
+📅 **Última actualización:** 2025-02-13  
 ✍️ **Autor:** Katherine Vargas [(KathWare)](https://kathware.com.ar)  
+
+
+---
+
+## 🚀 **Versión 1.3.2 - 2025-02-13**  
+- 🛠 **Se integró jsDelivr para obtener frases de un JSON externo.  
+- 🛠 **Corrección del cierre de sesión:** Ahora la skill cierra correctamente al decir "Salir" o "Cancelar".  
+- 🔄 **Manejo de sesiones mejorado:** Se asegura que todas las respuestas indiquen si la sesión sigue abierta o se cierra.  
+- 🔁 **Corrección en `RepeatIntent`:** Ahora recuerda correctamente la última frase y la repite sin errores.  
+- ⚙ **Optimización de `SessionEndedRequestHandler`:** Evita errores inesperados al finalizar la skill.  
+- 🚀 **Mejoras generales en la estabilidad y formato de respuestas.**  
+- Explorar nuevas frases y ampliar la base de datos de inspiración.  
+- Evaluar mejoras en la interacción de la skill para futuras versiones.
 
 ---
 
@@ -20,10 +33,8 @@
 🔹 **Corrección en el Intent de Ayuda (`AMAZON.HelpIntent`)**  
 ✔ Ahora la skill no se cierra al pedir ayuda.  
 ✔ Se mantiene la sesión abierta con una pregunta final.  
-
 🔹 **Corrección en el Intent de Repetición (`AMAZON.RepeatIntent`)**  
 ✔ Alexa ahora repite correctamente la última frase dicha.  
-
 🔹 **Otros cambios menores en interacción y flujo de conversación.**  
 
 ---
