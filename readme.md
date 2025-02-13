@@ -66,6 +66,14 @@ Esta skill **no almacena datos personales** ni requiere permisos adicionales.
 
 ---
 
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la **GNU GPL v3**. Consulta el archivo [`LICENSE`](LICENSE) para más detalles.
+
+Los documentos que contienen texto en formato .json o html estático están licenciados bajo **Creative Commons BY-NC-SA 4.0**.
+
+---
+
 ## 💜 **Agradecimientos**  
 
 Desarrollado por **Katherine Vargas** [(KathWare)](https://kathware.com.ar).  
