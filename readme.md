@@ -1,11 +1,11 @@
-# 💊 **Pastillas Inspiradoras - Skill para Alexa**  
+## 💊 **Pastillas Inspiradoras - Skill para Alexa**  
 
 📌 **Autor:** Katherine Vargas | [(KathWare)](https://kathware.com.ar)  
 📅 **Última actualización:** 2025-02-08  
 
 ---
 
-## 📌 **Descripción del Proyecto**  
+### 📌 **Descripción del Proyecto**  
 
 **Pastillas Inspiradoras** es una skill para Amazon Alexa que proporciona **frases motivacionales** al azar.  
 Solo di:  
@@ -19,7 +19,7 @@ Y recibirás una frase de inspiración aleatoria.
 
 ---
 
-## 🚀 **Cómo usar la Skill**  
+### 🚀 **Cómo usar la Skill**  
 
 Puedes activarla diciendo:  
 🔹 **"Alexa, abre Pastillas Inspiradoras"**  
@@ -34,7 +34,7 @@ Para salir, puedes decir:
 
 ---
 
-## 📂 **Estructura del Proyecto**  
+### 📂 **Estructura del Proyecto**  
 
 📌 **Datos de la Skill:**  
 - 📝 **[`frases.json`](./frases.json)** → Contiene las frases inspiradoras.  
@@ -45,20 +45,20 @@ Para salir, puedes decir:
 
 ---
 
-## 📜 **Historial de Versiones**  
+### 📜 **Historial de Versiones**  
 
 🔗 **[📜 Consulta aquí el Historial de Versiones](version.md)**  
 
 ---
 
-## 🔒 **Política de Privacidad**  
+### 🔒 **Política de Privacidad**  
 
 Esta skill **no almacena datos personales** ni requiere permisos adicionales.  
 🔗 **[📄 Consulta aquí la Política de Privacidad](https://dragonmoon1522.github.io/Pastillas-Inspiradoras/Politica%20de%20Privacidad)**  
 
 ---
 
-## 🎨 **Próximas Mejoras**  
+### 🎨 **Próximas Mejoras**  
 
 🚀 **Agregar más frases inspiradoras.**  
 🚀 **Optimizar tiempos de respuesta en Alexa.**  
@@ -66,7 +66,7 @@ Esta skill **no almacena datos personales** ni requiere permisos adicionales.
 
 ---
 
-## 📜 Licencia
+### 📜 Licencia
 
 Este proyecto está licenciado bajo la **GNU GPL v3**. Consulta el archivo [`LICENSE`](LICENSE) para más detalles.
 
@@ -74,7 +74,7 @@ Los documentos que contienen texto en formato .json o html estático están lice
 
 ---
 
-## 💜 **Agradecimientos**  
+### 💜 **Agradecimientos**  
 
 Desarrollado por **Katherine Vargas** [(KathWare)](https://kathware.com.ar).  
 
